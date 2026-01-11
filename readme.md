@@ -29,3 +29,5 @@ Day 6 thaught us the basics to advanced concepts of Git and GitHub. Below is a s
 23. after changes to the file, use the following commands to push the changes to github: `git add readme.md`, then `git commit -m "header corrected and git learning summary added"`, and lastly `git push`
 24. this step 23 will push the changes to github.
 25. we can combine steps of add and commit using `git commit -a -m "added notes for details of add and commit commands"` or `git commit -am "message"` or `git commit -a` without `-m "message"` flag, which will open the default editor to enter the commit message.
+26. to pull changes from remote repository use `git pull` and this is neccary to do if there are changes on remote repository before pushing local changes to avoid conflicts and errors.
+27. taking changes from online is called pulling and sending changes to online is called pushing.
