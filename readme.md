@@ -28,3 +28,4 @@ Day 6 thaught us the basics to advanced concepts of Git and GitHub. Below is a s
 22. push the local repository to github using the following command: `git push -u origin main`
 23. after changes to the file, use the following commands to push the changes to github: `git add readme.md`, then `git commit -m "header corrected and git learning summary added"`, and lastly `git push`
 24. this step 23 will push the changes to github.
+25. we can combine steps of add and commit using `git commit -a -m "added notes for details of add and commit commands"` or `git commit -am "message"` or `git commit -a` without `-m "message"` flag, which will open the default editor to enter the commit message.
