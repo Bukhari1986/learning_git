@@ -2,7 +2,7 @@
 
 Day 6 thaught us the basics to advanced concepts of Git and GitHub. Below is a summary of what we learned:
 
-> ## summary how to use git
+## summary how to use git
 
 1. create a directory for your project `mkdir learning_git`
 2. navigate to the project directory using git bash `cd learning_git`
